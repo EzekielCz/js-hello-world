@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Cayde 6 \"Just between you and me, this is why you're my favorite.\""); 
 
 /*  
 Next, PLAY! 
